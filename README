@@ -1,0 +1,11 @@
+
+The code runs on Matlab and requires the Psychtoolbox (http://psychtoolbox.org/).
+
+The center piece is the function BangorGamblingTask_ENGL, which runs one session of the task. To run, this function calls the following:
+
+- GetBGTPaySequences (function)
+- settings_BangorGamblingTask_ENGL (script)
+- GetSubjectInfo_ENGL (function)
+- saveBehavData (function)
+
+After execution, BangorGamblingTask_ENGL saves two files, a *.txt and a *.mat, containing the behavioral data recorded.
