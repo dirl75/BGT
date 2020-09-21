@@ -1,0 +1,5 @@
+﻿This is not a normal deck of cards.
+
+Every card will EITHER win or lose some money.
+
+A face card will always be a winning card, a number card will always be a losing card.

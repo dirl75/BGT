@@ -1,0 +1,5 @@
+﻿It is up to you whether or not to gamble on the card BEFORE you turn it over.
+
+If you decide to GAMBLE, you will either win or lose the amount stated on the card.
+
+If you decide NOT to gamble, you will neither win nor lose the amount stated on the card.
